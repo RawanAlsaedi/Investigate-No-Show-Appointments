@@ -1,6 +1,6 @@
 # Investigate a Dataset (No-Show-Appointments)
 
-#![image](https://th.bing.com/th/id/OIP.B45SNqP1rW4cVQjddR24IQAAAA?pid=ImgDet&w=450&h=245&rs=1)
+![image](https://th.bing.com/th/id/OIP.B45SNqP1rW4cVQjddR24IQAAAA?pid=ImgDet&w=450&h=245&rs=1)
 
 ### Summary 
 
