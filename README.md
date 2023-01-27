@@ -11,3 +11,7 @@ Medical Appointment No Shows, found [here](https://www.kaggle.com/joniarroba/nos
 
 ### Technologies Used
 Python 3.7.7 -  *Libraries: NumPy, pandas, Matplotlib, and seaborn*.
+
+
+### Date created
+19/10/2022.
