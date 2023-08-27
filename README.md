@@ -7,7 +7,7 @@ This was the second project in [Data Analyst Nanodegree](https://www.udacity.com
 - [Medical Appointment No Shows](https://github.com/RawanAlsaedi/Investigate-No-Show-Appointments/blob/main/noshowappointments-kagglev2-may-2016.csv)
 
 
-## Key libraries
+## Key Libraries
 - Pandas: for data manipulation
 - NumPy: for data exploration
 - Matplotlib and Seaborn: for creating interactive visualizations.
