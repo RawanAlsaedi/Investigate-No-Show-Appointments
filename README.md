@@ -1,17 +1,23 @@
-# Investigate a Dataset (No-Show-Appointments)
-
-![image](https://th.bing.com/th/id/OIP.B45SNqP1rW4cVQjddR24IQAAAA?pid=ImgDet&w=450&h=245&rs=1)
-
-### Summary 
+# Investigate No Show Medical Appointments
 
 This was the second project in Data Analyst Nanodegree from Udacity. In this project, I analyzed Medical Appointment No Shows Dataset and communicated my findings about it using Python libraries NumPy, pandas, Matplotlib, and seaborn. The dataset collects information from 110k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment.
 
-### Dataset
-Medical Appointment No Shows, found [here](https://www.kaggle.com/joniarroba/noshowappointments).
 
-### Technologies Used
-Python 3.7.7 -  *Libraries: NumPy, pandas, Matplotlib, and seaborn*.
+## Dataset 
+- [Medical Appointment No Shows](https://github.com/RawanAlsaedi/Investigate-No-Show-Appointments/blob/main/noshowappointments-kagglev2-may-2016.csv)
 
 
-### Date created
-19/10/2022.
+## Key libraries
+- pandas: for data manipulation
+- NumPy: for data exploration
+- Matplotlib, and seaborn : for make interactive visualizations
+
+``` 
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
+
+## Notes
+This project was developed using **_Jupyter_ _Notebook_**
