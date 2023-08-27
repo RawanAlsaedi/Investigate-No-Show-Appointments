@@ -8,9 +8,9 @@ This was the second project in [Data Analyst Nanodegree](https://www.udacity.com
 
 
 ## Key libraries
-- pandas: for data manipulation
+- Pandas: for data manipulation
 - NumPy: for data exploration
-- Matplotlib, and seaborn : for make interactive visualizations
+- Matplotlib, and Seaborn : for make interactive visualizations
 
 ``` 
 import pandas as pd
