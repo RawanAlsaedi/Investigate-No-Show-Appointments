@@ -19,5 +19,5 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 
-## Notes
+## Note
 This project was developed using **_Jupyter_ _Notebook_**
